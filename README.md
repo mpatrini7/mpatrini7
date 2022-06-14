@@ -10,6 +10,7 @@
 			<b>My GitHub stats</b>
 		</tr>
 		<tr>
+			<b></b>
 		</tr>
 		<tr>
 			<td>
@@ -29,6 +30,7 @@
 			<b>My 42 stats</b></br>
 		</tr>
 		<tr>
+			<b></b>
 		</tr>
 		<tr>
 			<a href="https://github.com/mpatrini7">
