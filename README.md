@@ -22,7 +22,7 @@
 		<tr>
 			<td>
 				<a href="https://github.com/mpatrini7?tab=repositories">
-					<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpatrini7&layout=compact&theme=tokyonight&show_icons=true&count_private=true">
+					<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpatrini7&layout=compact&theme=tokyonight&show_icons=true&count_private=true" width="100%">
 				</a>
 			</td>
 		</tr>
