@@ -26,6 +26,7 @@
 			</td>
 		</tr>
 	</table>
+	![Snake animation](https://github.com/mpatrini7/github-readme/blob/output/github-contribution-snake.svg)
 	</br>
 	<b>42 Cursus</b>
 	</br>
