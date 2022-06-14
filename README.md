@@ -5,10 +5,11 @@
 - ⌨️ I’m currently learning C, C++, Unix, Virtual machines and Python
 - 📫 Reach me -> mpatrini@student.42roma.it
 <div align="center">
+	</br>
+	<b>My GitHub stats</b>
+	</br>
+	</br>
 	<table>
-		<tr>
-			<b>My GitHub stats</b>
-		</tr>
 		<tr>
 			<b></b>
 		</tr>
@@ -20,7 +21,7 @@
 			</td>
 			<td>
 				<a href="https://github.com/mpatrini7?tab=repositories">
-					<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpatrini7&layout=compact&theme=tokyonight&show_icons=true&count_private=true" width="100%">
+					<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpatrini7&layout=compact&theme=tokyonight&show_icons=true&count_private=true">
 				</a>
 			</td>
 		</tr>
