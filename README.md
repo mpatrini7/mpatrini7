@@ -17,6 +17,7 @@
 		<tr>
 			<details>
 				<summary>42 Cursus</summary>
+				
 				<b>Projects</b></br>
 					| Libft |
 					| :---: |
