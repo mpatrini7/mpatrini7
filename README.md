@@ -27,7 +27,7 @@
 		</tr>
 	</table>
 	</br>
-	<b>42 Cursus</>
+	<b>42 Cursus</b>
 	</br>
 	</br>
 	<table>
