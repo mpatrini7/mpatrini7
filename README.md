@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @mpatrini7 (Michael)
 - 🖥 I’m currently student at 42Roma Luiss
-- ⌨️ I’m currently learning C, C++, Unix, Virtual machines
+- ⌨️ I’m currently learning C, C++, Unix, Virtual machines and Python
 - 📫 Reach me -> mpatrini@student.42roma.it
 <div align="center">
 	<table>
@@ -11,7 +11,7 @@
 		</tr>
 		<tr>
 			<a href="https://github.com/mpatrini7">
-				<img src="https://badge42.vercel.app/api/v2/cl3i4c6rm003509meco00h0bc/stats?cursusId=21&coalitionId=126" alt="dripanuc's 42 stats" />
+				<img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/stats?cursusId=21&coalitionId=124" alt="dripanuc's 42 stats" />
 			</a>
 		</tr>
 	</table>
