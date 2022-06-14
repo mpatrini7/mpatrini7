@@ -12,12 +12,12 @@
 		<tr>
 			<td>
 				<a href="https://github.com/mpatrini7">
-					<img src="https://awesome-github-stats.azurewebsites.net/user-stats/mpatrini7?cardType=level&theme=radical&show_icons=true&count_private=true" width="397" height="200">
+					<img src="https://awesome-github-stats.azurewebsites.net/user-stats/mpatrini7?cardType=level&theme=tokyonight&show_icons=true&count_private=true" width="397" height="200">
 				</a> 
 			</td>
 			<td>
 				<a href="https://github.com/mpatrini7?tab=repositories">
-					<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpatrini7&layout=compact&theme=radical&show_icons=true&count_private=true" width="442" height="200">
+					<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpatrini7&layout=compact&theme=tokyonight&show_icons=true&count_private=true" width="442" height="200">
 				</a>
 			</td>
 		</tr>
