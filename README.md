@@ -10,6 +10,8 @@
 			<b>My GitHub stats</b>
 		</tr>
 		<tr>
+		</tr>
+		<tr>
 			<td>
 				<a href="https://github.com/mpatrini7">
 					<img src="https://github-readme-stats.vercel.app/api?username=mpatrini7&layout=compact&theme=tokyonight&show_icons=true&count_private=true" width="397" height="200">
@@ -25,6 +27,8 @@
 	<table>
 		<tr>
 			<b>My 42 stats</b></br>
+		</tr>
+		<tr>
 		</tr>
 		<tr>
 			<a href="https://github.com/mpatrini7">
