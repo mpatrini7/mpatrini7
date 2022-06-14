@@ -37,7 +37,7 @@
 				<img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/stats?cursusId=21&coalitionId=124" alt="mpatrini's 42 stats" />
 			</a>
 		</tr>
-		<tr>
+		</table>
 			</br>
 			<b>42 Cursus</>
 			</br>
