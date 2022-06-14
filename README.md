@@ -19,7 +19,7 @@
 				<summary>42 Cursus</summary>
 				<b>Projects</b></br>
 					| Libft |
-					| ----- |
+					| :---: |
 					| <img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2457197" alt="mpatrini's 42 Libft Score" /> |
 				<table>
 					<tr>
