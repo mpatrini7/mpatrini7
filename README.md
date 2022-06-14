@@ -25,10 +25,11 @@
 			</td>
 		</tr>
 	</table>
+	</br>
+	<b>42 Cursus</>
+	</br>
+	</br>
 	<table>
-		<tr>
-			<b>My 42 stats</b></br>
-		</tr>
 		<tr>
 			<b></b>
 		</tr>
