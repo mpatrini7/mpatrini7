@@ -18,9 +18,9 @@
 			</br>
 			<b>42 Cursus</>
 			</br>
-			<table>
+			<table align="center">
 				<tr>
-					<td style="text-align: center">Libft</td>
+					<td >Libft</td>
 				</tr>
 				<tr>
 					<td><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2457197" alt="mpatrini's 42 Libft Score" /></td>
