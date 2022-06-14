@@ -41,6 +41,7 @@
 			</br>
 			<b>42 Cursus</>
 			</br>
+			</br>
 			<table>
 				<tr>
 					<td align="center">Libft</td>
@@ -75,6 +76,7 @@
 			</table>
 			</br>
 			<b>Exams</b>
+			</br>
 			</br>
 			<table style="text-align: center">
 				<tr>
