@@ -85,7 +85,7 @@
 			<td align="center">Exam 02</td><td align="center">Exam 03</td>
 		</tr>
 		<tr>
-			<td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2495984" alt="mpatrini's 42 Exam Rank 03 Score" /></td><td align="center"><img src="https://badge4vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2530729" alt="mpatrini's 42 Exam Rank 03 Score" /></td>
+			<td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2495984" alt="mpatrini's 42 Exam Rank 03 Score" /></td><td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2530729" alt="mpatrini's 42 Exam Rank 03 Score" /></td>
 		</tr>
 	</table>
 </div>
