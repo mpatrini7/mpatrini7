@@ -31,7 +31,7 @@
 					<td>Ft_printf</td><td>Born2beroot</td><td>Get_next_line</td>
 				</tr>
 				<tr>
-					<td><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2465040" alt="mpatrini's 42 ft_printf Score" /></td><td><img src="https://badge42.vercel.app/api/v2cl4e6egt2004009mfjtl499jq/project/2468856" alt="mpatrini's 42 Born2BeRoot Score" /></td><td><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2468856" alt="mpatrini's42 get_next_line Score" /></td>
+					<td><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2465040" alt="mpatrini's 42 ft_printf Score" /></td><td><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2479952" alt="mpatrini's 42 Born2BeRoot Score" /></td><td><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2468856" alt="mpatrini's42 get_next_line Score" /></td>
 				</tr>
 			</table>
 			<table>
@@ -39,7 +39,7 @@
 					<td>Pipex</td><td>Push_swap</td><td>So_long</td>
 				</tr>
 				<tr>
-					<td><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2468856" alt="mpatrini's 42 pipex Score" /></td><td><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project2479952" alt="mpatrini's 42 push_swap Score" /></td><td><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2479950" alt="mpatrini's 42 so_long Score" /></td>
+					<td><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2468856" alt="mpatrini's 42 pipex Score" /></td><td><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2479952" alt="mpatrini's 42 push_swap Score" /></td><td><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2479950" alt="mpatrini's 42 so_long Score" /></td>
 				</tr>
 			</table>
 			<table>
@@ -47,7 +47,7 @@
 					<td>Philosophers</td><td>Minishell</td>
 				</tr>
 				<tr>
-					<td><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2530728" alt="mpatrini's 42 Philosophers Score" /></td><td><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project2538227" alt="mpatrini's 42 Minishell Score" /></td>
+					<td><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2530728" alt="mpatrini's 42 Philosophers Score" /></td><td><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2538227" alt="mpatrini's 42 Minishell Score" /></td>
 				</tr>
 			<table>
 			</br>
