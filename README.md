@@ -1,16 +1,37 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**mpatrini7/mpatrini7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 Hi, I’m @mpatrini7 (Michael)
+- 🖥 I’m currently student at 42Roma Luiss
+- ⌨️ I’m currently learning C, C++, Unix, Virtual machines
+- 📫 Reach me -> mpatrini@student.42roma.it
+<div align="center">
+	<table>
+		<tr>
+			<b>My 42 stats</b></br>
+		</tr>
+		<tr>
+			<a href="https://github.com/mpatrini7">
+				<img src="https://badge42.vercel.app/api/v2/cl3i4c6rm003509meco00h0bc/stats?cursusId=21&coalitionId=126" alt="dripanuc's 42 stats" />
+			</a>
+		</tr>
+	</table>
+	<table>
+		<tr>
+			<b>My GitHub stats</b>
+		</tr>
+		<tr>
+			<td>
+				<a href="https://github.com/mpatrini7">
+					<img src="https://awesome-github-stats.azurewebsites.net/user-stats/mpatrini7?cardType=level&theme=tokyonight" width="397" height="200">
+				</a> 
+			</td>
+			<td>
+				<a href="https://github.com/mpatrini7?tab=repositories">
+					<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpatrini7&layout=compact&theme=tokyonight" width="442" height="200">
+				</a>
+			</td>
+		</tr>
+	</table>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile views counter](https://komarev.com/ghpvc/?username=mpatrini7&&style=flat-square)
