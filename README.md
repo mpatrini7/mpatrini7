@@ -17,6 +17,7 @@
 		<tr>
 			<details>
 				<summary>42 Cursus</summary>
+
 				```html
 				<table>
 					<tr>
@@ -39,6 +40,7 @@
 				<b>Exams</b>
 				<img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2495984"  alt="mpatrini's 42 ft_printf Score" />
 				```
+				
 			</details>
 
 		</tr>
