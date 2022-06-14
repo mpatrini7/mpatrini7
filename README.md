@@ -57,7 +57,7 @@
 			<td align="center">Ft_printf</td><td align="center">Born2beroot</td><td align="center">Get_next_line</td>
 		</tr>
 		<tr>
-			<td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2465040" alt="mpatrini's 42 ft_printf Score" /></td><td align="center"><img src="https://badge42.verceapp/api/v2/cl4e6egt2004009mfjtl499jq/project/2479952" alt="mpatrini's 42 Born2BeRoot Score" /></td><td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/projec2468856" alt="mpatrini's42 get_next_line Score" /></td>
+			<td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2465040" alt="mpatrini's 42 ft_printf Score" /></td><td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2468856" alt="mpatrini's 42 Born2BeRoot Score" /></td><td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2469700" alt="mpatrini's42 get_next_line Score" /></td>
 		</tr>
 	</table>
 	<table style="text-align: center">
@@ -65,7 +65,7 @@
 			<td align="center">Pipex</td><td align="center">Push_swap</td><td align="center">So_long</td>
 		</tr>
 		<tr>
-			<td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2468856" alt="mpatrini's 42 pipex Score" /></td><td align="center"><img src="https://badge42.vercel.apapi/v2/cl4e6egt2004009mfjtl499jq/project/2479952" alt="mpatrini's 42 push_swap Score" /></td><td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2479950alt="mpatrini's 42 so_long Score" /></td>
+			<td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2468856" alt="mpatrini's 42 pipex Score" /></td><td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2479952" alt="mpatrini's 42 push_swap Score" /></td><td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2479950" alt="mpatrini's 42 so_long Score" /></td>
 		</tr>
 	</table>
 	<table style="text-align: center">
@@ -73,7 +73,7 @@
 			<td align="center">Philosophers</td><td align="center">Minishell</td>
 		</tr>
 		<tr>
-			<td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2530728" alt="mpatrini's 42 Philosophers Score" /></td><td align="center"><img src="https://badge4vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2538227" alt="mpatrini's 42 Minishell Score" /></td>
+			<td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2530728" alt="mpatrini's 42 Philosophers Score" /></td><td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2538227" alt="mpatrini's 42 Minishell Score" /></td>
 		</tr>
 	</table>
 	</br>
