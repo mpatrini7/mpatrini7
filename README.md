@@ -17,7 +17,7 @@
 		<tr>
 			<details>
 				<summary>42 Cursus</summary>
-				<b>Projects</b>
+				<b>Projects</b></br>
 				<table>
 					<tr>
 						<td>Libft</td>
