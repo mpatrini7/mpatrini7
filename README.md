@@ -16,8 +16,15 @@
 		</tr>
 		<tr>
 			<details>
-				<summary>Click to expand!</summary>
+				<summary>42 Cursus</summary>
+				<b>Projects</b>
 				<img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2457197" alt="mpatrini's 42 Libft Score" />
+				<img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2465040" alt="mpatrini's 42 ft_printf Score" /> <img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2468856" alt="mpatrini's 42 Born2BeRoot Score" /> <img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2468856" alt="mpatrini's 42 get_next_line Score" />
+				<img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2468856" alt="mpatrini's 42 ft_printf Score" /> <img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2479952" alt="mpatrini's 42 ft_printf Score" /> <img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2479950" alt="mpatrini's 42 ft_printf Score" />
+				<img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2530728" alt="mpatrini's 42 ft_printf Score" /> <img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2538227" alt="mpatrini's 42 ft_printf Score" />
+
+				<b>Exams</b>
+				<img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2495984"  alt="mpatrini's 42 ft_printf Score" />
 			</details>
 		</tr>
 	</table>
