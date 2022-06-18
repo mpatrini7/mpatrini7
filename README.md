@@ -15,10 +15,14 @@
 		</tr>
 		<tr>
 			<td>
-				<img src="https://github-readme-stats-b3pf5rh70-mpatrini7.vercel.app/api?username=mpatrini7&layout=compact&theme=tokyonight&show_icons=true&count_private=true">
+				<a href="https://github.com/mpatrini7">
+					<img src="https://github-readme-stats-b3pf5rh70-mpatrini7.vercel.app/api?username=mpatrini7&layout=compact&theme=tokyonight&show_icons=true&count_private=true">
+				</a>
 			</td>
 			<td>
-				<img src="https://github-readme-stats-b3pf5rh70-mpatrini7.vercel.app/api/top-langs/?username=mpatrini7&layout=compact&theme=tokyonight&show_icons=true&count_private=true">
+				<a href="https://github.com/mpatrini7">
+					<img src="https://github-readme-stats-b3pf5rh70-mpatrini7.vercel.app/api/top-langs/?username=mpatrini7&layout=compact&theme=tokyonight&show_icons=true&count_private=true">
+				</a>
 			</td>
 		</tr>
 	</table>
