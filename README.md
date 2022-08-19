@@ -82,7 +82,7 @@
 			<td align="center">CPP</td><td align="center">Net Practice</td><td align="center">Cub3D</td>
 		</tr>
 		<tr>
-			<td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2642441" alt=100/100" /></td><td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2530729" alt="100/100" /></td><td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2530729" alt="125/125" /></td>
+			<td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2642441" alt="100/100" /></td><td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2530729" alt="100/100" /></td><td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2530729" alt="125/125" /></td>
 		</tr>
 	</table>
 	</br>
