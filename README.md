@@ -85,7 +85,6 @@
 			</td>
 		</tr>
 	</table>
-	</table>
 	<table style="text-align: center">
 		<tr>
 			<td align="center">CPP</td><td align="center">Net Practice</td><td align="center">Cub3D</td>
@@ -99,6 +98,22 @@
 			</td>
 			<td align="center">
 				<img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2530729" alt="125/125" />
+			</td>
+		</tr>
+	</table>
+	<table style="text-align: center">
+		<tr>
+			<td align="center">Ft Containers</td><td align="center">Inception</td><td align="center">Webserv</td>
+		</tr>
+		<tr>
+			<td align="center">
+				<img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2733465" alt="Subscribed" />
+			</td>
+			<td align="center">
+				<img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2733464" alt="Subscribed" />
+			</td>
+			<td align="center">
+				<img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2733466" alt="Subscribed" />
 			</td>
 		</tr>
 	</table>
@@ -119,6 +134,9 @@
 			</td>
 			<td align="center">
 				<img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2717025" alt="100/100" />
+			</td>
+			<td align="center">
+				<img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2733463" alt="Subscribed" />
 			</td>
 		</tr>
 	</table>
