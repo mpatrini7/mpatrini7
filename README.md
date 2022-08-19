@@ -65,15 +65,24 @@
 			<td align="center">Pipex</td><td align="center">Push_swap</td><td align="center">So_long</td>
 		</tr>
 		<tr>
-			<td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2468856" alt="125/125" /></td><td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2479952" alt="125/125" /></td><td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2479950" alt="125/125 /></td>
+			<td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2468856" alt="125/125" /></td><td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2479952" alt="125/125" /></td><td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2479950" alt="125/125" /></td>
 		</tr>
 	</table>
 	<table style="text-align: center">
 		<tr>
-			<td align="center">Philosophers</td><td align="center">Minishell</td>
+			<td align="center">
+				Philosophers
+			</td>
+			<td align="center">
+			Minishell</td>
 		</tr>
 		<tr>
-			<td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2530728" alt="125/125" /></td><td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2538227" alt="125/125" /></td>
+			<td align="center">
+				<img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2530728" alt="125/125" />
+			</td>
+			<td align="center">
+				<img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2538227" alt="125/125" />
+			</td>
 		</tr>
 	</table>
 	</table>
@@ -82,7 +91,15 @@
 			<td align="center">CPP</td><td align="center">Net Practice</td><td align="center">Cub3D</td>
 		</tr>
 		<tr>
-			<td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2642441" alt="100/100" /></td><td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2530729" alt="100/100" /></td><td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2530729" alt="125/125" /></td>
+			<td align="center">
+				<img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2642441" alt="100/100" />
+			</td>
+			<td align="center">
+				<img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2530729" alt="100/100" />
+			</td>
+			<td align="center">
+				<img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2530729" alt="125/125" />
+			</td>
 		</tr>
 	</table>
 	</br>
