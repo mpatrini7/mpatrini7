@@ -57,7 +57,15 @@
 			<td align="center">Ft_printf</td><td align="center">Born2beroot</td><td align="center">Get_next_line</td>
 		</tr>
 		<tr>
-			<td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2465040" alt="125/125" /></td><td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2468856" alt="125/125" /></td><td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2469700" alt="125/125" /></td>
+			<td align="center">
+				<img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2465040" alt="125/125" />
+			</td>
+			<td align="center">
+				<img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2468856" alt="125/125" />
+			</td>
+			<td align="center">
+				<img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2469700" alt="125/125" />
+			</td>
 		</tr>
 	</table>
 	<table style="text-align: center">
@@ -65,7 +73,15 @@
 			<td align="center">Pipex</td><td align="center">Push_swap</td><td align="center">So_long</td>
 		</tr>
 		<tr>
-			<td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2468856" alt="125/125" /></td><td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2479952" alt="125/125" /></td><td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2479950" alt="125/125" /></td>
+			<td align="center">
+				<img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2468856" alt="125/125" />
+			</td>
+			<td align="center">
+				<img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2479952" alt="125/125" />
+			</td>
+			<td align="center">
+				<img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2479950" alt="125/125" />
+			</td>
 		</tr>
 	</table>
 	<table style="text-align: center">
