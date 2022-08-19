@@ -49,7 +49,7 @@
 			<td align="center">Libft</td>
 		</tr>
 		<tr>
-			<td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2457197" alt="mpatrini's 42 Libft Score" /></td>
+			<td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2457197" alt="125/125" /></td>
 		</tr>
 	</table>
 	<table style="text-align: center">
@@ -57,7 +57,7 @@
 			<td align="center">Ft_printf</td><td align="center">Born2beroot</td><td align="center">Get_next_line</td>
 		</tr>
 		<tr>
-			<td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2465040" alt="mpatrini's 42 ft_printf Score" /></td><td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2468856" alt="mpatrini's 42 Born2BeRoot Score" /></td><td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2469700" alt="mpatrini's42 get_next_line Score" /></td>
+			<td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2465040" alt="125/125" /></td><td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2468856" alt="125/125" /></td><td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2469700" alt="125/125" /></td>
 		</tr>
 	</table>
 	<table style="text-align: center">
@@ -65,7 +65,7 @@
 			<td align="center">Pipex</td><td align="center">Push_swap</td><td align="center">So_long</td>
 		</tr>
 		<tr>
-			<td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2468856" alt="mpatrini's 42 pipex Score" /></td><td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2479952" alt="mpatrini's 42 push_swap Score" /></td><td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2479950" alt="mpatrini's 42 so_long Score" /></td>
+			<td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2468856" alt="125/125" /></td><td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2479952" alt="125/125" /></td><td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2479950" alt="125/125 /></td>
 		</tr>
 	</table>
 	<table style="text-align: center">
@@ -73,7 +73,7 @@
 			<td align="center">Philosophers</td><td align="center">Minishell</td>
 		</tr>
 		<tr>
-			<td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2530728" alt="mpatrini's 42 Philosophers Score" /></td><td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2538227" alt="mpatrini's 42 Minishell Score" /></td>
+			<td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2530728" alt="125/125" /></td><td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2538227" alt="125/125" /></td>
 		</tr>
 	</table>
 	</table>
@@ -82,7 +82,7 @@
 			<td align="center">CPP</td><td align="center">Net Practice</td><td align="center">Cub3D</td>
 		</tr>
 		<tr>
-			<td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2642441" alt="mpatrini's 42 CPP Score" /></td><td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2530729" alt="mpatrini's 42 NetPractice Score" /></td><td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2530729" alt="mpatrini's 42 Cub3D Score" /></td>
+			<td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2642441" alt=100/100" /></td><td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2530729" alt="100/100" /></td><td align="center"><img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2530729" alt="125/125" /></td>
 		</tr>
 	</table>
 	</br>
@@ -95,13 +95,13 @@
 		</tr>
 		<tr>
 			<td align="center">
-				<img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2495984" alt="mpatrini's 42 Exam Rank 03 Score" />
+				<img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2495984" alt="100/100" />
 			</td>
 			<td align="center">
-				<img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2530729" alt="mpatrini's 42 Exam Rank 03 Score" />
+				<img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2530729" alt="100/100" />
 			</td>
 			<td align="center">
-				<img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2717025" alt="mpatrini's 42 Exam Rank 04 Score" />
+				<img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2717025" alt="100/100" />
 			</td>
 		</tr>
 	</table>
