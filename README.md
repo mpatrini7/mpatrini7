@@ -123,7 +123,7 @@
 		</tr>
 		<tr>
 			<td align="center">
-				<img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2733465" alt="Subscribed" />
+				<img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2733465" alt="125/125" />
 			</td>
 			<td align="center">
 				<img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2733464" alt="Subscribed" />
@@ -139,7 +139,7 @@
 	</br>
 	<table style="text-align: center">
 		<tr>
-			<td align="center">Exam 02</td><td align="center">Exam 03</td><td align="center">Exam 04</td>
+			<td align="center">Exam 02</td><td align="center">Exam 03</td><td align="center">Exam 04</td><td align="center">Exam 05</td>
 		</tr>
 		<tr>
 			<td align="center">
