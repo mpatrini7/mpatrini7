@@ -129,7 +129,7 @@
 				<img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2733464" alt="Subscribed" />
 			</td>
 			<td align="center">
-				<img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2733466" alt="Subscribed" />
+				<img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2733466" alt="125/125" />
 			</td>
 		</tr>
 	</table>
