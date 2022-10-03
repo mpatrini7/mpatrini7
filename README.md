@@ -113,7 +113,7 @@
 				<img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2530729" alt="100/100" />
 			</td>
 			<td align="center">
-				<img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2530729" alt="125/125" />
+				<img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2669425" alt="125/125" />
 			</td>
 		</tr>
 	</table>
@@ -133,13 +133,28 @@
 			</td>
 		</tr>
 	</table>
+	
+	<table style="text-align: center">
+		<tr>
+			<td align="center">ft_transcendence</td>
+		</tr>
+		<tr>
+			<td align="center">
+				<img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2733465" alt="Subscribed" />
+			</td>
+		</tr>
+	</table>
 	</br>
 	<b>Exams</b>
 	</br>
 	</br>
 	<table style="text-align: center">
 		<tr>
-			<td align="center">Exam 02</td><td align="center">Exam 03</td><td align="center">Exam 04</td><td align="center">Exam 05</td>
+			<td align="center">Exam 02</td>
+			<td align="center">Exam 03</td>
+			<td align="center">Exam 04</td>
+			<td align="center">Exam 05</td>
+			<td align="center">Exam 06</td>
 		</tr>
 		<tr>
 			<td align="center">
@@ -153,6 +168,9 @@
 			</td>
 			<td align="center">
 				<img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2733463" alt="Subscribed" />
+			</td>
+			<td align="center">
+				<img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2733465" alt="Forbidden" />
 			</td>
 		</tr>
 	</table>
