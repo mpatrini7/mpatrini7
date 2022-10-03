@@ -133,14 +133,13 @@
 			</td>
 		</tr>
 	</table>
-	
 	<table style="text-align: center">
 		<tr>
-			<td align="center">ft_transcendence</td>
+			<td align="center">Ft Transcendence</td>
 		</tr>
 		<tr>
 			<td align="center">
-				<img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2733465" alt="Subscribed" />
+				<img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/" alt="Subscribed" />
 			</td>
 		</tr>
 	</table>
@@ -170,7 +169,7 @@
 				<img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2733463" alt="Subscribed" />
 			</td>
 			<td align="center">
-				<img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2733465" alt="Forbidden" />
+				<img src="" alt="Forbidden" />
 			</td>
 		</tr>
 	</table>
