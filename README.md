@@ -139,7 +139,7 @@
 		</tr>
 		<tr>
 			<td align="center">
-				<img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/" alt="Subscribed" />
+				<img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2823016" alt="Subscribed" />
 			</td>
 		</tr>
 	</table>
@@ -166,10 +166,10 @@
 				<img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2717025" alt="100/100" />
 			</td>
 			<td align="center">
-				<img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2733463" alt="Subscribed" />
+				<img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2733463" alt="100/100" />
 			</td>
 			<td align="center">
-				<img src="" alt="Forbidden" />
+				<img src="https://badge42.vercel.app/api/v2/cl4e6egt2004009mfjtl499jq/project/2823020" alt="Subscribed" />
 			</td>
 		</tr>
 	</table>
