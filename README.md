@@ -1,9 +1,7 @@
 # Hi there 👋
 
 - 👋 Hi, I’m @mpatrini7 (Michael)
-- 🖥 I’m currently student at 42Roma Luiss
-- ⌨️ I’m currently learning C, C++, Unix, Virtual machines and Python
-- 📫 Reach me -> mpatrini@student.42roma.it
+- 🖥 I’m currently student at 42Roma Luiss and POLIMI
 <div align="center">
 	</br>
 	<b>My GitHub stats</b>
